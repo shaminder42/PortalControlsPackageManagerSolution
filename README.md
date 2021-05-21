@@ -1,0 +1,2 @@
+# PortalControlsPackageManagerSolution
+This solution contains Portal reusable components
