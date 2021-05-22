@@ -78,6 +78,7 @@ SPSControls.executeFetch(`<fetch version="1.0" output-format="xml-platform" mapp
 Below is the result of above function executed in browser console:
 ![image](https://user-images.githubusercontent.com/55796351/119197970-9aae4c80-ba56-11eb-9b07-dd65b92af538.png)
 
-
+For more details, see below:
+[![IMAGE ALT TEXT HERE](images/YoutubeLink.png)](https://www.youtube.com/watch?v=BO-0KpfruEU)
 
 
