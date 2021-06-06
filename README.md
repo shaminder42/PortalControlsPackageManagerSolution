@@ -78,7 +78,7 @@ SPSControls.executeFetch(`<fetch version="1.0" output-format="xml-platform" mapp
 Below is the result of above function executed in browser console:
 ![image](https://user-images.githubusercontent.com/55796351/119197970-9aae4c80-ba56-11eb-9b07-dd65b92af538.png)
 
-## 6. Portal data console
+## 6. Portal data console - (Navigate to /_spstools in your portal)
 ![image](images/dataserviceconsole.gif)
 
 For more details, see below:
